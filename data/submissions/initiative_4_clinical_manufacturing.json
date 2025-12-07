@@ -1,0 +1,18 @@
+{
+  "drug_substance": "",
+  "dosage_form": "",
+  "strength": "",
+  "container_system": "",
+  "shelf_life": "",
+  "batch_size": "",
+  "num_batches": "",
+  "timeline": "",
+  "milestones": "",
+  "shipping_reqs": "",
+  "budget_range": "",
+  "criteria_technical": "30",
+  "criteria_quality": "25",
+  "criteria_pm": "15",
+  "criteria_supply": "15",
+  "criteria_cost": "15"
+}

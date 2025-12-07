@@ -1,0 +1,24 @@
+{
+  "drug_substance": "Protein X",
+  "dosage_form": "Injectable",
+  "strength": "Injectable",
+  "container_system": "Injectable",
+  "shelf_life": "20",
+  "services_needed": [
+    "Drug Substance",
+    "Drug Product"
+  ],
+  "batch_size": "100",
+  "num_batches": "100",
+  "timeline": "10/10/2025",
+  "gmp_standard": "EU GMP",
+  "milestones": "",
+  "shipping_reqs": "",
+  "temperature_controlled": "No",
+  "budget_range": "10000",
+  "criteria_technical": "30",
+  "criteria_quality": "25",
+  "criteria_pm": "15",
+  "criteria_supply": "15",
+  "criteria_cost": "15"
+}

@@ -1,0 +1,12 @@
+{
+  "company_name": "ABC Pharma",
+  "primary_contact": "John Doe",
+  "email": "test@gmail.com",
+  "project_name": "Oncology Trial",
+  "company_stage": "Startup",
+  "request_type": "Clinical",
+  "services_needed": "Manufacturing",
+  "target_markets": "United States (FDA)",
+  "additional_info": "",
+  "initiative_id": 6
+}
