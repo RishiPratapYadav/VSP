@@ -1,0 +1,20 @@
+# IDE and editor directories
+.vscode/
+.idea/
+.project
+.classpath
+
+# Python virtual environment
+venv/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+*.env
+secrets/
